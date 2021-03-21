@@ -74,7 +74,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-##About 
+## About 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Also use [Chakra UI](https://chakra-ui.com/) for the UI component.
 
